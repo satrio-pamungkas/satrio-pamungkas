@@ -2,7 +2,7 @@
 Welcome to my profile, you can call me either Satrio or Raihan
 
 ### About Me
-I'm a passionate programmer who seek to explore technology broadly and keep enhance the knowledge with lifelong learning concept. I'm a both practitioner and researcher in software engineering discipline (you can see my research publication [here](https://scholar.google.com/citations?hl=id&user=mASXQXcAAAAJ)). Here are my known as :
+I'm a passionate programmer who seek to explore technology broadly and keep enhance the knowledge with lifelong learning concept. I'm a both practitioner and researcher in software engineering discipline (my research publication is [here](https://scholar.google.com/citations?hl=id&user=mASXQXcAAAAJ)). Here are my known as :
 - **Bachelor of Software Engineering**, Indonesia University of Education (January - 2023)
 - **One of the founders** and **former Vice Chairman** of KOMPETEGRAM (College Programming Community)
 - **Maintainer** of Satpam Dev (Personal Open-Source Organization)
