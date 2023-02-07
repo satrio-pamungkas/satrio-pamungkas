@@ -6,6 +6,7 @@ I'm a passionate programmer who seek to explore technology broadly and keep enha
 - **Bachelor of Software Engineering**, Indonesia University of Education (January - 2023)
 - **One of the founders** and **former Vice Chairman** of KOMPETEGRAM (College Programming Community)
 - **Maintainer** of Satpam Dev (Personal Open-Source Organization)
+- **Freelancer** at [***ICEI***](https://creativedu-icei.com/) (Educational technology solution) and [***Sahud Agency***](https://github.com/Sahud-Agency) (IT solution)
 
 ### My Skills and Area of Interests
 You can see all the projects related on my repository/profile
