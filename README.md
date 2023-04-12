@@ -2,10 +2,9 @@
 Welcome to my profile, you can call me either Satrio or Raihan
 
 ### About Me
-I'm a passionate programmer who seek to explore technology broadly and keep enhance the knowledge with lifelong learning concept. I'm a both practitioner and researcher on computer science and software engineering discipline (my research publication is [here](https://scholar.google.com/citations?hl=id&user=mASXQXcAAAAJ)). Here are my known as :
+I'm a passionate programmer who seeks to explore technology broadly and keeps enhancing knowledge with the concept of lifelong learning. I have several experiences working on web and android applications. As a human being, I'm also happy to take part in several non-profit communities and open source projects.. I'm a both practitioner and researcher on computer science and software engineering discipline (my research publication is [here](https://scholar.google.com/citations?hl=id&user=mASXQXcAAAAJ)). Here are my known as :
 - **Bachelor of Software Engineering**, Indonesia University of Education (January - 2023)
 - **One of the founders** and **former Vice Chairman** of KOMPETEGRAM (College Programming Community)
-- **Maintainer** of Satpam Dev (Personal Open-Source Organization)
 - **Freelancer** at [***ICEI***](https://creativedu-icei.com/) (Educational solution) and [***Sahud Agency***](https://github.com/Sahud-Agency) (IT solution)
 
 ### My Skills and Area of Interests
