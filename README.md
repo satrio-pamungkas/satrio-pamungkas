@@ -1,5 +1,5 @@
 ### Hello there 👋
-Welcome to my profile, you can call me either Satrio or Raihan
+Welcome to my profile, you can call me either Satrio or Raihan. To view my portfolios, please click [here](https://bit.ly/raihan-satrio-portfolios)
 
 ### About Me
 I'm a passionate programmer who seeks to explore technology broadly and keeps enhancing knowledge with the concept of lifelong learning. I have several experiences working on web and android applications. As a human being, I'm also happy to take part in several non-profit communities and open source projects.. I'm a both practitioner and researcher on computer science and software engineering discipline (my research publication is [here](https://scholar.google.com/citations?hl=id&user=mASXQXcAAAAJ)). Here are my known as :
